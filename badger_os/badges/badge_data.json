@@ -1,0 +1,46 @@
+{
+    "company": [
+        {
+            "text": "Facebook",
+            "size": 0.6
+        },
+        {
+            "text": "Google",
+            "size": 0.6
+        },
+        {
+            "text": "Amazon",
+            "size": 0.6
+        },
+        {
+            "text": "Microsoft",
+            "size": 0.6
+        }
+    ],
+    "name": "Kowalski J.",
+    "detail1": [
+        {
+            "title": "Software",
+            "text": "Dev"
+        },
+        {
+            "title": "Embedded",
+            "text": "Dev"
+        }
+    ],
+    "detail2": [
+        {
+            "title": "",
+            "text": "@1234"
+        },
+        {
+            "title": "",
+            "text": "x.com/1234"
+        },
+        {
+            "title": "",
+            "text": ""
+        }
+    ],
+    "image_path": "/badges/badge.jpg"
+}
