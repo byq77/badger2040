@@ -12,7 +12,7 @@ examples/list.py
 examples/qrgen.py
 images/*.jpg
 images/*.txt
-badges/*.txt
 badges/*.jpg
+badges/*.json
 books/*.txt
 icons/*.png

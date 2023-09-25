@@ -1,0 +1,29 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "micropico.syncFolder": "badger_os",
+    "micropico.openOnStart": true,
+    "python.analysis.typeshedPaths": [
+        "~/.micropico-stubs/included",
+        "firmware/PIMORONI_BADGER2040/lib"
+    ],
+    "python.analysis.extraPaths": [
+        "~/.micropico-stubs/included",
+        "firmware/PIMORONI_BADGER2040/lib"
+    ],
+    "micropico.syncFileTypes": [
+        "py",
+        "txt",
+        "log",
+        "json",
+        "xml",
+        "html",
+        "js",
+        "css",
+        "mpy",
+        "jpg"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    },
+    "python.terminal.activateEnvironment": false
+}
