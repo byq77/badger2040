@@ -1,46 +1,50 @@
 {
     "company": [
         {
-            "text": "Facebook",
-            "size": 0.6
-        },
-        {
-            "text": "Google",
-            "size": 0.6
-        },
-        {
-            "text": "Amazon",
-            "size": 0.6
-        },
-        {
-            "text": "Microsoft",
+            "text": "Multi-dent",
             "size": 0.6
         }
     ],
-    "name": "Kowalski J.",
+    "name": "Szantula M.",
     "detail1": [
         {
-            "title": "Software",
-            "text": "Dev"
+            "title": "SzMD",
+            "text": "lekarz stomatolog"
         },
         {
-            "title": "Embedded",
-            "text": "Dev"
+            "title": "",
+            "text": "lekarz stomatolog"
         }
     ],
     "detail2": [
         {
             "title": "",
-            "text": "@1234"
+            "text": "@shantix000"
         },
         {
             "title": "",
-            "text": "x.com/1234"
+            "text": "x.com/shantix000"
+        },
+        {
+            "title": "*****",
+            "text": "***"
+        },
+        {
+            "title": "Wiem,",
+            "text": "ze boli"
+        },
+        {
+            "title": "Wiem,",
+            "text": "jak pomoc"
+        },
+        {
+            "title": "Jak boli",
+            "text": "to ciuje."
         },
         {
             "title": "",
             "text": ""
         }
     ],
-    "image_path": "/badges/badge.jpg"
+    "image_path": "/badges/szmd.jpg"
 }
