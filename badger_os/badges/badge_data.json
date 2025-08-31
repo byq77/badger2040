@@ -1,45 +1,37 @@
 {
     "company": [
         {
-            "text": "Multi-dent",
+            "text": "Multi-Dent",
+            "size": 0.6
+        },
+        {
+            "text": "",
             "size": 0.6
         }
     ],
     "name": "Szantula M.",
     "detail1": [
         {
+            "title": "",
+            "text": "lekarz stomatolog"
+        },
+        {
             "title": "SzMD",
             "text": "lekarz stomatolog"
         },
         {
             "title": "",
-            "text": "lekarz stomatolog"
+            "text": ""
         }
     ],
     "detail2": [
         {
-            "title": "",
-            "text": "@shantix000"
+            "title": "Szczotkuj",
+            "text": "kazdego dnia"
         },
         {
-            "title": "",
-            "text": "x.com/shantix000"
-        },
-        {
-            "title": "*****",
-            "text": "***"
-        },
-        {
-            "title": "Wiem,",
-            "text": "ze boli"
-        },
-        {
-            "title": "Wiem,",
-            "text": "jak pomoc"
-        },
-        {
-            "title": "Jak boli",
-            "text": "to ciuje."
+            "title": "You should",
+            "text": "floss"
         },
         {
             "title": "",
